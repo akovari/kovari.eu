@@ -1,0 +1,42 @@
+baseURL = 'https://kovari.eu/'
+languageCode = 'en-us'
+title = "Adam Kovari"
+theme = "colordrop"
+
+[params]
+themeColor = "#222222"
+themeInverseColor = "#ffffff"
+description = "Professional Software Development. Based in Brno, Czech Republic. Focusod on Python, Java, Functional Programming, Compilers & Interpreters"
+siteLogo = "logo-photo.jpg"
+
+[author]
+name = "Adam Kovari"
+job = "Software Engineer"
+image = "logo-photo.jpg"
+github = "https://github.com/akovari"
+linkedin = "https://linkedin.com/in/kovariadam"
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "https://wordpress.kovari.eu"
+weight = 1
+
+[[menu.footer]]
+identifier = "github"
+name = "github"
+url = "https://github.com/akovari"
+weight = 1
+
+[[menu.footer]]
+identifier = "linkedin"
+name = "linkedin"
+url = "https://www.linkedin.com/in/kovariadam"
+weight = 2
+
+[[menu.footer]]
+identifier = "email"
+name = "email"
+url = "mailto:adam@kovari.eu"
+weight = 3
+

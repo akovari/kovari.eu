@@ -1,0 +1,6 @@
+[submodule "themes/colordrop"]
+	path = themes/colordrop
+	url = git@github.com:humrochagf/colordrop.git
+[submodule "gruvhugo"]
+	path = gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git
